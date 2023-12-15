@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python
 - 💬 Ask me about Theology and Soccer
-- 📫 How to reach me by email: jptr2189@gmail.com
+- 📫 How to reach me by email: developerjeanpierre@gmail.com
 - 😄 Pronouns: He/his
 
 <!--
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
   <div> 
   <a href="https://instagram.com/jptr.2189" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "jptr2189@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:developerjeanpierre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeanpierre2189" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
