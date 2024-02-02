@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python
-- 💬 Ask me about Theology and Soccer
+- 💬 Ask me about Music and Soccer
 - 📫 How to reach me by email: developerjeanpierre@gmail.com
 - 😄 Pronouns: He/his
 
