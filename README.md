@@ -37,9 +37,11 @@ Here are some ideas to get you started:
   ##
 
   <div> 
-  <a href="https://instagram.com/jptr.2189" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:developerjeanpierre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jeanpierre2189" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-008B8B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanpierrerodrigues/)
+[![Gmail](https://img.shields.io/badge/Gmail-FFD39B?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jptr2189@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FA8072?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JPTR2189)
+
   
 </div>
 
