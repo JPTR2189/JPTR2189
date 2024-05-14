@@ -10,12 +10,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me by email: developerjeanpierre@gmail.com
 - 😄 Pronouns: He/his
 
+
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 ## My Stack 🛠️
