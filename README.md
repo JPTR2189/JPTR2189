@@ -18,25 +18,45 @@ Here are some ideas to get you started:
 -->
 
 
+## My Stack 🛠️
+
+![Static Badge](https://img.shields.io/badge/Hard_Skills-purple)
+
+<img src="https://skillicons.dev/icons?i=vscode,python,java,github,git&theme=dark" />
+
+
+<!--
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+-->
+---------------------
+
+![Static Badge](https://img.shields.io/badge/Soft_Skills-purple)
+
+![Static Badge](https://img.shields.io/badge/Communication-yellow)
+![Static Badge](https://img.shields.io/badge/Leadership-cia)
+![Static Badge](https://img.shields.io/badge/Teamwork-blue)
+![Static Badge](https://img.shields.io/badge/Problem_solving-orange)
+
+
 <div>
   <a href="https://github.com/JPTR2189">
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPTR2189&show_icons=true&theme=cobalt)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPTR2189&size_weight=0.5&count_weight=0.5)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPTR2189&size_weight=0.5&count_weight=0.5&theme=cobalt)
 </div>
 
 <div style="display: inline_block"><br>
   <!--
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  -->
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-          
+  -->       
 </div>
   
-  ##
 
   <div> 
     
