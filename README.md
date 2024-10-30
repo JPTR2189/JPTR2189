@@ -1,11 +1,10 @@
-### Hi there, I'm Jean Pierre! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B173B&height=270&section=header&fontAlignY=35&text=Jean%20Pierre&desc=Engenheiro%20de%20Software!💻&fontColor=43B521#gh-dark-mode-only" />
+</a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=43B521&random=false&width=435&height=40&lines=Hi+there,+i'm+Jean+Pierre!)](https://git.io/typing-svg)
 
 
-**JPTR2189/JPTR2189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML and CSS
 - 💬 Ask me about Music and Soccer
 - 📫 How to reach me by email: developerjeanpierre@gmail.com
 - 😄 Pronouns: He/his
