@@ -23,7 +23,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Hard_Skills-purple)
 
-<img src="https://skillicons.dev/icons?i=vscode,python,java,github,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,python,java,github,git&theme=dark" />
 
 
 <!--
