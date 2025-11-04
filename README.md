@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B173B&height=270&section=header&fontAlignY=35&text=Jean%20Pierre&desc=Engenheiro%20de%20Software!💻&fontColor=43B521#gh-dark-mode-only" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B173B&height=270&section=header&fontAlignY=35&text=Jean%20Pierre&desc=Software%20%20Engineer!💻&fontColor=43B521#gh-dark-mode-only" />
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=43B521&random=false&width=435&height=40&lines=Hi+there,+i'm+Jean+Pierre!)](https://git.io/typing-svg)
