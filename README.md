@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=43B521&random=false&width=435&height=40&lines=Hi+there,+i'm+Jean+Pierre!)](https://git.io/typing-svg)
 
 
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Swift
 - 💬 Ask me about Music and Soccer
 - 📫 How to reach me by email: developerjeanpierre@gmail.com
 - 😄 Pronouns: He/his
