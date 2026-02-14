@@ -41,12 +41,12 @@
 ![Static Badge](https://img.shields.io/badge/Problem_solving-orange)
 
 
-<div>
+<!-- <div>
   <a href="https://github.com/JPTR2189">
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPTR2189&show_icons=true&theme=cobalt)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPTR2189&size_weight=0.5&count_weight=0.5&theme=cobalt)
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
   <!--
