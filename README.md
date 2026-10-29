@@ -62,7 +62,7 @@
   <div> 
     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-008B8B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanpierrerodrigues/)
-[![Gmail](https://img.shields.io/badge/Gmail-FFD39B?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jptr2189@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-FFD39B?style=for-the-badge&logo=gmail&logoColor=red)](mailto:developerjeanpierre@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-FA8072?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JPTR2189)
 
   
