@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning Swift
-- 💬 Ask me about Music and Soccer
+- 💬 Ask me about Music and Theology
 - 📫 How to reach me by email: developerjeanpierre@gmail.com
 - 😄 Pronouns: He/his
 
